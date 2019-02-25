@@ -6,7 +6,7 @@
 
 `.venv\Scripts\activate`
 
-`pip install tqdm`
+`pip install -r requirements.txt`
 
 `python try.py`
 
